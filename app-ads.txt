@@ -1,8 +1,8 @@
 #Last updated May 12, 2021
 #Appodeal
-appodeal.com, 123634, DIRECT
+appodeal.com, 120486, DIRECT
 #BidMachine
-bidmachine.io, 123634, DIRECT
+bidmachine.io, 120486, DIRECT
 #AdMob
 google.com, pub-1235936696431930, DIRECT, f08c47fec0942fa0
 #Facebook
@@ -483,15 +483,15 @@ improvedigital.com, 1461, RESELLER
 smartadserver.com, 3503, RESELLER
 freewheel.tv, 1106481, RESELLER
 #Unruly
-rhythmone.com, 3634565696, DIRECT, a670c89d4a324e47 
-video.unrulymedia.com, 3634565696, DIRECT 
-indexexchange.com, 182257, RESELLER 
-appnexus.com, 6849, RESELLER 
-rubiconproject.com, 15268, RESELLER 
-spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34 
-spotx.tv, 285547, RESELLER, 7842df1d2fe2db34 
-pubmatic.com, 159277, RESELLER, 5d62403b186f2ace 
-advertising.com, 28605, RESELLER 
+rhythmone.com, 3634565696, DIRECT, a670c89d4a324e47 
+video.unrulymedia.com, 3634565696, DIRECT 
+indexexchange.com, 182257, RESELLER 
+appnexus.com, 6849, RESELLER 
+rubiconproject.com, 15268, RESELLER 
+spotxchange.com, 285547, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 285547, RESELLER, 7842df1d2fe2db34 
+pubmatic.com, 159277, RESELLER, 5d62403b186f2ace 
+advertising.com, 28605, RESELLER 
 improvedigital.com, 1699, RESELLER
 #Adview
 adview.com, 48045325, DIRECT, 1b2cc038a11ea319
