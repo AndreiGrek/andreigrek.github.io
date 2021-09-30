@@ -641,3 +641,6 @@ improvedigital.com, 1231, RESELLER
 improvedigital.com, 1893, RESELLER
 improvedigital.com, 1698, RESELLER
 supply.colossusssp.com, 196, DIRECT, 6c5b49d96ec1b458
+
+smaato.com, 1100049999, DIRECT, 07bcf65f187117b4
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
